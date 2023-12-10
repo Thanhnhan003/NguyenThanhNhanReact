@@ -1,0 +1,17 @@
+.song_pic {
+    margin: 10px;
+    padding-top: 10px;
+    border: 1px solid;
+    width: 200px;
+    box-sizing: border-box;
+    text-align: center;
+}
+img {
+    width: 180px;
+    height: 180px;
+    font-weight: bold;
+}
+
+.song_pic p {
+    font-weight: bold;
+}
